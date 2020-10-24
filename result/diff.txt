@@ -1,0 +1,19 @@
+4A35629E.wav 0 jta_0836 no
+
+8693E4C1.wav 0 kp_9837  yes
+
+43AD2058.wav 0 yge_6705  yes
+
+3E9176BF.wav 0 dgl_3846  伪造
+
+E3A5D4F2.wav 0 ctf_0172  yes
+
+045D261F.wav 0 kpl_2536  yes
+
+E174839C.wav 0 jta_0836  no
+
+4BC315E7.wav 0 sj_0269  yes
+
+6317E98C.wav 0 bly_1354  no
+
+F8936542.wav 0 eqa_3472  no
